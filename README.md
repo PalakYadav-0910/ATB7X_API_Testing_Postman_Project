@@ -1,7 +1,9 @@
-#Restful Booker - API Testing Project #1
+# API Testing Postman Projects
 
-Project Name : Restful-booker
+## Restful Booker - API Testing Project #1
 
-Url of the project https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth-CreateToken
+### Project Name : Restful-booker
+
+Url of the project - https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth-CreateToken
 
 Newman Report
