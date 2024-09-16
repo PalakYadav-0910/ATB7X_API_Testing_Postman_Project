@@ -8,5 +8,6 @@ Url of the project - https://restful-booker.herokuapp.com/apidoc/index.html#api-
 
 Newman Report
 
-"C:\Users\palayadav\Downloads\Newman Summary Report.png"
+![Newman Summary Report](https://github.com/user-attachments/assets/c5eac2a7-d0b3-45f4-99e8-67ea102eb2fe)
+
 
